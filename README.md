@@ -36,6 +36,5 @@
 ![](https://moe-counter.glitch.me/get/@a602017206.github.readme)
 </br>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
