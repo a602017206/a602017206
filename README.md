@@ -1,7 +1,8 @@
 
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/JAVA-FF1493.svg"></a>
+    <a href="https://github.com/java"><img src="https://img.shields.io/badge/JAVA-FF1493.svg"></a>
+    <a href="https://github.com/go"><img src="https://img.shields.io/badge/GO-111493.svg"></a>
     <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/a602017206/a602017206?color=blue"></a>
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/a602017206/a602017206.svg?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/a602017206/a602017206.svg?color=blue&logo=github"></a>
